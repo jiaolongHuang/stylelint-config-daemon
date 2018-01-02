@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-config-daemon",
+  "version": "1.0.0",
+  "description": "lint your css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaolongHuang/stylelint-config-daemon.git"
+  },
+  "keywords": [
+    "stylelint",
+    "config",
+    "standard"
+  ],
+  "author": "hjl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaolongHuang/stylelint-config-daemon/issues"
+  },
+  "homepage": "https://github.com/jiaolongHuang/stylelint-config-daemon#readme",
+  "devDependencies": {
+    "postcss": "^6.0.15",
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^18.0.0",
+    "stylelint-order": "^0.8.0"
+  }
+}
